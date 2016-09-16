@@ -2,7 +2,7 @@
 title: omj530
 description: fotos y anuncios.
 email: omj530@gmail.com
-baseurl: /swift
+baseurl: "https://github.com/link-coala/omj530"
 url: "https://github.com/link-coala/omj530" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
