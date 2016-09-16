@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "tarot"
+date:   2014-09-09 22:37:00 +05:30
+categories: example
+author: omj530
+github_repo_username: pranavrajs
+github_repo : swift
+comments: false
+---
+
+para personas interesadas en conocer el tarot de marsella en una interpretacion totalmente diferente
+a las que puede encontrar en cualquier otro lugar donde todos los elementos estan disenados para este metodo
+no se parece en nada a algo de lo que hayas escuchado o exprimentado antes todo lo que pasa en la experiencia es
+completamente original
+condiciones de uso 
+
+lugar: sitio publico a convenir como un parque o una biblioteca
+costo: $50.000

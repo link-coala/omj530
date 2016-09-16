@@ -1,0 +1,30 @@
+# Site settings
+title: omj530
+description: fotos y anuncios.
+email: omj530@gmail.com
+baseurl: /swift
+url: "http://pranav.maangalabs.com" # the base hostname & protocol for your site
+#favicon
+favicon: /favicon.png
+
+#feed
+feedburner_username:
+#twitter
+twitter_username: omj530
+tunblr_username: omj530
+github_username:  link-coala
+
+#google analytics
+google_analytics_id : UA-53386152-2
+#gplus
+gplus_username: 101893920934936418705
+
+#permalink /blog/2014/11/11/this-is-a-sample-post
+permalink: /blog/:year/:month/:day/:title
+# Build settings
+markdown: kramdown
+
+#Disqus configuration
+disqus_short_name: maangalabscom
+disqus_show_comment_count: true
+
