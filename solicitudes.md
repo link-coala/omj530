@@ -1,6 +1,6 @@
 ---
 layout: page
-title: solicitudes
+title: anuncios
 permalink: /solicitudes/
 ---
 
