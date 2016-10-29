@@ -1,6 +1,6 @@
 ---
 layout: page
-title: la calle
+title: tabla de precios
 permalink: /lacalle/
 ---
 
